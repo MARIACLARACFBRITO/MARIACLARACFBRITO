@@ -4,7 +4,7 @@ My name is Maria Clara Brito, and I'm a Data Science student.
 Here are some of my projects:
 
 1. Airflow DAG with MongoDB and Data Visualization
-For my Architecture and NoSQL class, we were tasked with creating an Airflow DAG that fetches a CSV file and loads it into a database. I chose MongoDB for the database, running inside a Docker container. Additionally, the CSV data was visualized using Power BI or ELK.
+For my Architecture and NoSQL class, we were tasked with creating an Airflow DAG that fetches a CSV file and loads it into a database. I chose MongoDB for the database, running inside a Docker container. Additionally, the CSV data was visualized using Power BI or ELK https://github.com/MARIACLARACFBRITO/airflow_docker .
 
 📁 You can check out the files and full solution .
 
