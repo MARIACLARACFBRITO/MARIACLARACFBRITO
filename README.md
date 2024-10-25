@@ -13,3 +13,24 @@ During my first year at FIAP, we were presented with a challenge by a partner co
 
 📁 Take a look at the final version of our solution .
 
+Predicting Churn
+Business Problem
+In a Machine Learning course titled "Classificação: aprendendo a classificar dados com Machine Learning," the goal was to develop a model to predict customer churn for a fictitious company. This project focused on creating a classification model to identify customers at higher risk of canceling their services, providing actionable insights for targeted retention strategies.
+
+Solution
+To address the problem, we started with an Exploratory Data Analysis (EDA) to gain insights into customer attributes and uncover potential churn patterns.
+
+The following models were evaluated to determine the best predictive approach:
+
+Dummy Classifier: Used as a baseline with an accuracy of 79.64%.
+Decision Tree Classifier: Selected for its ability to capture complex decision patterns, achieving an accuracy of 84.64%.
+K-Nearest Neighbors (KNN): Implemented to leverage customer similarity, with an accuracy of 81.72%.
+After testing, the Decision Tree model proved to be the best model for predicting churn, with the highest accuracy.
+
+Business Result
+By deploying the Decision Tree model, the fictitious company could predict customer churn with an accuracy of 84.64%, allowing for more efficient resource allocation towards customer retention. This approach potentially:
+
+Reduces churn by accurately identifying high-risk customers.
+Optimizes the retention budget by focusing actions on customers most likely to cancel.
+
+Project:[here](https://github.com/MARIACLARACFBRITO/)
