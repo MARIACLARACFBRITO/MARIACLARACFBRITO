@@ -4,7 +4,8 @@ My name is Maria Clara Brito, and I'm a Data Science student.
 #Skills
 
 **Programming and Database:**
-[![My Skills](https://skillicons.dev/icons?i=py,sql,mongodb,sklearn,flutter&perline=4)](https://skillicons.dev)
+  <img width=50,height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 **Data Science:**
 
