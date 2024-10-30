@@ -33,4 +33,4 @@ By deploying the Decision Tree model, the fictitious company could predict custo
 Reduces churn by accurately identifying high-risk customers.
 Optimizes the retention budget by focusing actions on customers most likely to cancel.
 
-Project:[here](https://github.com/MARIACLARACFBRITO/)
+Project:[Predicting Churn-Using ML](https://github.com/MARIACLARACFBRITO/)
