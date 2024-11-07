@@ -45,7 +45,7 @@ I am a Data Science student with a strong interest in the financial market, part
 - **Description:** For my Architecture and NoSQL class, I created an Airflow DAG that fetches a CSV file and loads it into MongoDB, which is running inside a Docker container. The data was then visualized using Power BI or ELK.
 - **Skills Demonstrated:** Airflow, MongoDB, Docker, Data Visualization.
 
-### 2. [Predicting Power Outages Using Weather Data](link-to-project)
+### 2. [Predicting Power Outages Using Weather Data](https://github.com/MARIACLARACFBRITO/power_outages_prediction)
 - **Description:** During my first year at FIAP, we collaborated with Mindsight to help energy providers like Enel predict power outages caused by weather conditions in São Paulo. We developed a machine learning model to analyze weather data extracted from an API via a DAG (Airflow) running in a Docker container, combined with open data on energy outages.
 - **Skills Demonstrated:** Machine Learning, Airflow, Docker, Data Analysis.
 
