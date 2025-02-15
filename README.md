@@ -25,8 +25,7 @@ I am a Data Science student with a strong interest in the financial market, part
 
 ### 📊 Data Visualization
 - 📈 Power BI
-- 📊 Looker
-- 📈 Elasticsearch
+- 📊 Tableau
 
 ### 🧠 Soft Skills
 - 🤝 Teamwork
