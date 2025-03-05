@@ -10,18 +10,15 @@ I am a Data Science student with a strong interest in the financial market, part
 
 ### 🛠️ Programming Languages
 - 🐍 Python
-
+- 📋Basic knowlegde of Linux command
+  
 ### 📦 Databases
 - 🗄️ MongoDB
-- 📊 Cassandra
 - 🏛️ OracleDB
 
 ### 🔧 Tools and Technologies
 - 🐳 Docker
 - 🔄 Apache Airflow
-- 🐘 Apache Hadoop
-- 🐍 Apache Pig
-- 🔍 Apache Hive
 
 ### 📊 Data Visualization
 - 📈 Power BI
@@ -30,7 +27,6 @@ I am a Data Science student with a strong interest in the financial market, part
 ### 🧠 Soft Skills
 - 🤝 Teamwork
 - 🧩 Problem Solving
-- 💬 Effective Communication
 
 ### 📅 Methodologies
 - 🏃‍♂️ Agile
