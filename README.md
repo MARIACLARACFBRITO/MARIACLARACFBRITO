@@ -10,15 +10,18 @@ I am a Data Science student with a strong interest in the financial market, part
 
 ### 🛠️ Programming Languages
 - 🐍 Python
-- 📋Basic knowlegde of Linux command
+- 📋 Basic knowlegde of Linux command
+- 🏛️ SQL
   
 ### 📦 Databases
 - 🗄️ MongoDB
 - 🏛️ OracleDB
+- 🏛️ MySQL
 
 ### 🔧 Tools and Technologies
 - 🐳 Docker
 - 🔄 Apache Airflow
+- 🔄 Azure
 
 ### 📊 Data Visualization
 - 📈 Power BI
@@ -27,6 +30,7 @@ I am a Data Science student with a strong interest in the financial market, part
 ### 🧠 Soft Skills
 - 🤝 Teamwork
 - 🧩 Problem Solving
+  
 
 ### 📅 Methodologies
 - 🏃‍♂️ Agile
@@ -36,21 +40,19 @@ I am a Data Science student with a strong interest in the financial market, part
 
 ## Projects
 
-### 1. [Airflow DAG with MongoDB and Data Visualization](https://github.com/MARIACLARACFBRITO/airflow_docker)
-- **Description:** For my Architecture and NoSQL class, I created an Airflow DAG that fetches a CSV file and loads it into MongoDB, which is running inside a Docker container. The data was then visualized using Power BI or ELK.
-- **Skills Demonstrated:** Airflow, MongoDB, Docker, Data Visualization.
+### 1. [TOTVS Customers Clusterization](https://github.com/MARIACLARACFBRITO/clusterizacao_totvs)
+- **Description:** My group and I worked on a project in partnership with TOTVS and FIAP to understand customer satisfaction with TOTVS products. To achieve this goal, we applied HDBSCAN for clustering.
+
+- **Skills Demonstrated** Machine Learning, ETL knowledge, Azure Tools, Database mastery.    
+
 
 ### 2. [Predicting Power Outages Using Weather Data](https://github.com/MARIACLARACFBRITO/power_outages_prediction)
 - **Description:** During my first year at FIAP, we collaborated with Mindsight to help energy providers like Enel predict power outages caused by weather conditions in São Paulo. We developed a machine learning model to analyze weather data extracted from an API via a DAG (Airflow) running in a Docker container, combined with open data on energy outages.
 - **Skills Demonstrated:** Machine Learning, Airflow, Docker, Data Analysis.
 
-### 3. [Predicting Churn Using ML](https://github.com/MARIACLARACFBRITO/)
-- **Description:** In the course "Classificação: aprendendo a classificar dados com Machine Learning," the goal was to develop a model to predict customer churn for a fictitious company. This project focused on creating a classification model to identify customers at higher risk of canceling their services, providing actionable insights for targeted retention strategies.
-- **Skills Demonstrated:** Exploratory Data Analysis (EDA), Decision Trees, K-Nearest Neighbors (KNN), Machine Learning.
-
-#### 4.[Predicting college dropout using ML](https://github.com/MARIACLARACFBRITO/withdrawal-from-college)
-Description: This project aimed to predict college dropout rates using machine learning techniques. The goal was to create a model that identifies students at risk of leaving the university, enabling targeted retention strategies. The process included analyzing the relationship between attributes and the target variable, addressing data imbalance with SMOTE, and training models like Random Forest and Gradient Boosting. Metrics such as recall, precision, F1 score, and confusion matrix were used to evaluate performance.
-- **Skills Demonstrated:** Exploratory Data Analysis (EDA), Random Forest, Gradient Boosting, SMOTE, Confusion Matrix, Pipeline, Stratified K-Fold Validation, Machine Learning.
+### 3. [Airflow DAG with MongoDB and Data Visualization](https://github.com/MARIACLARACFBRITO/airflow_docker)
+- **Description:** For my Architecture and NoSQL class, I created an Airflow DAG that fetches a CSV file and loads it into MongoDB, which is running inside a Docker container. The data was then visualized using Power BI or ELK.
+- **Skills Demonstrated:** Airflow, MongoDB, Docker, Data Visualization.
 
 ## You can find me:
 
